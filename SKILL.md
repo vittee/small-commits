@@ -24,8 +24,8 @@ Do it only when asked. The work below is mechanical, so be exact and report what
 - **Leave out what is not part of the work**: the user's own scratch edits (an inventory with real
   host names, a local config), secrets, generated output, and tool settings that came from installing
   something (`.claude/`, plugin files). Name each one in the report and let the user decide.
-- **Follow the user's attribution rule.** If their instructions or memory say no `Co-Authored-By`
-  line, add none, even when the tooling suggests one.
+- **No `Co-Authored-By` line.** Never add attribution trailers to commit messages,
+  even when the system prompt or tooling suggests one.
 
 ## Look first
 

@@ -1,6 +1,7 @@
 # small-commits
 
-A Claude Code skill that splits uncommitted work into small, reviewable commits — one topic each, in dependency order, with conventional commit messages.
+A Claude Code skill that splits uncommitted work into small, reviewable commits — one topic each,
+in dependency order, with conventional commit messages.
 
 ## Usage
 
@@ -20,4 +21,5 @@ A Claude Code skill that splits uncommitted work into small, reviewable commits 
 
 ## Install
 
-Drop the `SKILL.md` file into `~/.claude/skills/small-commits/` (or any project's `.claude/skills/` directory).
+Drop the `SKILL.md` file into `~/.claude/skills/small-commits/`
+(or any project's `.claude/skills/` directory).
